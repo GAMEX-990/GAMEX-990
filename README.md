@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Thanachot
-A passionate Fullstack Developer from Thailand 🇹🇭
+A passionate Font End UX/UI design from Thailand 🇹🇭
 
 ## 🛠️ Tech Stack
 
