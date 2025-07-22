@@ -8,7 +8,7 @@ Studying UX Ui
 
 * 🌍  I'm based in nakhonratchasima
 * ✉️  You can contact me at [thanachotyinkhunthod@gmail.com](mailto:thanachotyinkhunthod@gmail.com)
+* About me https://mymme.vercel.app/
 
-### Skills
 
 
