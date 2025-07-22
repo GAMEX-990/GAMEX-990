@@ -9,5 +9,6 @@ A passionate Fullstack Developer from Thailand 🇹🇭
 
 ## 📫 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-@gamex_kanom-E4405F?logo=instagram&logoColor=white)](https://instagram.com/gamex_kanom)
-[![Email](https://img.shields.io/badge/Gmail-thanachot@example.com-D14836?logo=gmail&logoColor=white)](mailto:thanachot@example.com)
+[![Email](https://img.shields.io/badge/Gmail-thanachotyinkhunthod@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:thanachotyinkhunthod@gmail.com
+)
 
