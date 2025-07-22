@@ -1,14 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Game
-============================================================================================================================
+# 👋 Hello! I'm Thanachot
+A passionate Fullstack Developer from Thailand 🇹🇭
 
-I am a student at Rajamongkol University of Technology esan. Computer Science major
------------------------------------------------------------------------------------
+## 🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 
-Studying UX Ui
+## 📊 GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamexkanom&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamexkanom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-* 🌍  I'm based in nakhonratchasima
-* ✉️  You can contact me at [thanachotyinkhunthod@gmail.com](mailto:thanachotyinkhunthod@gmail.com)
-* About me https://mymme.vercel.app/
-
-
+## 📫 Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-@gamex_kanom-E4405F?logo=instagram&logoColor=white)](https://instagram.com/gamex_kanom)
+[![Email](https://img.shields.io/badge/Gmail-thanachot@example.com-D14836?logo=gmail&logoColor=white)](mailto:thanachot@example.com)
 
