@@ -7,10 +7,6 @@ A passionate Fullstack Developer from Thailand 🇹🇭
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 
-## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamexkanom&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamexkanom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-@gamex_kanom-E4405F?logo=instagram&logoColor=white)](https://instagram.com/gamex_kanom)
 [![Email](https://img.shields.io/badge/Gmail-thanachot@example.com-D14836?logo=gmail&logoColor=white)](mailto:thanachot@example.com)
